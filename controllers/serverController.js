@@ -40,13 +40,15 @@ exports.addServer = async (req, res) => {
       support_group,
       server_status,
       server_class,
+      owner,
+      application_group
     } = req.body;
   
     try {
       const result = await pool.query(
         `INSERT INTO servers 
-          (region, priority, server_name, ip_address, site_code, location, support_group, server_status, server_class)
-         VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)
+          (region, priority, server_name, ip_address, site_code, location, support_group, server_status, server_class, owner, application_group)
+         VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11)
          RETURNING *`,
         [
           region,
@@ -58,6 +60,8 @@ exports.addServer = async (req, res) => {
           support_group,
           server_status,
           server_class,
+          owner,
+          application_group
         ]
       );
   
