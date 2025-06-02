@@ -1,0 +1,81 @@
+REGION,PRIORITY,SERVER_NAME,IP_ADDRESS,SITE_CODE,LOCATION,SUPPORT_GROUP,SERVER_STATUS,SERVER_CLASS
+EMEA,Critical,pwct125gw65,192.168.49.92,DEU20,"Cairo, Egypt",HCL Data Center Windows,Installed,Windows
+EMEA,Critical,pwct017lx87,192.168.134.249,DEU78,"Paris, France",HCL Data Center Windows,Installed,Windows
+EMEA,High,pwct738fs87,192.168.195.153,FRA94,"Cairo, Egypt",HCL Data Center AIX,Pending Install,Linux
+EMEA,High,pwct054gw85,192.168.134.192,FRA43,"London, UK",HCL Data Center Linux,Retired,Solaris
+EMEA,Medium,pwct378lx38,192.168.157.62,ESP79,"Madrid, Spain",HCL Cloud Windows,Installed,Windows
+EMEA,Medium,pwct569lx50,192.168.255.102,ITA61,"Zurich, Switzerland",HCL Cloud Linux,Installed,AIX
+EMEA,Low,pwct308api55,192.168.142.40,EGY76,"Cairo, Egypt",TCS AS SQL,Pending Install,Windows
+EMEA,Low,pwct463lx68,192.168.185.225,DEU41,"Madrid, Spain",TCS ORACLE,Retired,Windows
+EMEA,Critical,pwct559fs08,192.168.142.117,DEU53,"Vienna, Austria",CAP BD Administration,Installed,Windows
+EMEA,Critical,pwct035lx18,192.168.234.37,ESP85,"Madrid, Spain",TCS MES,Installed,Windows
+EMEA,High,api-aus-698,192.168.150.112,AUT19,"Vienna, Austria",TCS Aveva,Pending Install,Windows
+EMEA,High,gateway-asia-418,192.168.189.91,ESP18,"Vienna, Austria",ACC NA EDC,Retired,Windows
+EMEA,Medium,fs-asia-751,192.168.193.21,CHE19,"Madrid, Spain",TCS Geberal Application Support,Installed,Windows
+EMEA,Medium,auth-uk-217,192.168.0.154,ITA95,"Cairo, Egypt",CAP AS APPS,Installed,Windows
+EMEA,Low,web-us-359,192.168.216.88,ESP79,"Paris, France",HCL Automation,Installed,Windows
+EMEA,Critical,web-us-946,192.168.82.139,EGY41,"Cairo, Egypt",HCL SEC ICS,Installed,Windows
+EMEA,Critical,fs-asia-59,192.168.166.216,GBR34,"Berlin, Germany",HCL Avaya,Pending Install,Windows
+EMEA,High,auth-uk-795,192.168.101.40,DEU94,"London, UK",HCL APP CNC,Retired,Windows
+EMEA,High,fs-us-986,192.168.214.57,CHE64,"London, UK",TCS PBI,Installed,Windows
+EMEA,Medium,srv-eu-487,192.168.128.249,EGY16,"Berlin, Germany",HCL Highjump APP,Installed,Windows
+Greater Asia,Medium,pwct108fs03,192.168.35.12,IND61,"Bangkok, Thailand",HCL Data Center Windows,Installed,Windows
+Greater Asia,Low,pwct749api47,192.168.81.203,JPN23,"Beijing, China",HCL Data Center Windows,Installed,Windows
+Greater Asia,Low,pwct311sw58,192.168.239.136,CHN34,"Seoul, South Korea",HCL Data Center AIX,Installed,Linux
+Greater Asia,Critical,pwct698bx05,192.168.112.176,SGP27,Singapore,HCL Data Center Linux,Installed,Solaris
+Greater Asia,Critical,pwct305gw90,192.168.1.245,CHN45,Singapore,HCL Cloud Windows,Pending Install,Windows
+Greater Asia,High,pwct063api07,192.168.16.207,CHN19,Singapore,HCL Cloud Linux,Retired,AIX
+Greater Asia,High,pwct425db62,192.168.236.98,PHL80,"Mumbai, India",TCS AS SQL,Installed,Windows
+Greater Asia,Medium,pwct865api71,192.168.219.230,IND93,"Seoul, South Korea",TCS ORACLE,Installed,Windows
+Greater Asia,Medium,pwct846fs13,192.168.135.36,PHL11,"Mumbai, India",CAP BD Administration,Installed,Windows
+Greater Asia,Low,pwct316gw53,192.168.80.117,PHL40,"Beijing, China",TCS MES,Installed,Windows
+Greater Asia,Critical,gateway-ind-768,192.168.116.198,SGP72,Singapore,TCS Aveva,Installed,Windows
+Greater Asia,Critical,auth-uk-639,192.168.87.137,CHN61,"Mumbai, India",ACC NA EDC,Installed,Windows
+Greater Asia,Critical,node-us-118,192.168.137.17,CHN58,"Mumbai, India",TCS Geberal Application Support,Installed,Windows
+Greater Asia,Critical,proxy-asia-94,192.168.13.144,SGP43,"Manila, Philippines",CAP AS APPS,Installed,Windows
+Greater Asia,High,node-us-851,192.168.235.138,PHL68,"Tokyo, Japan",HCL Automation,Pending Install,Windows
+Greater Asia,High,web-eu-990,192.168.36.156,SGP99,"Bangkok, Thailand",HCL SEC ICS,Retired,Windows
+Greater Asia,Medium,srv-eu-652,192.168.52.174,PHL81,"Bangkok, Thailand",HCL Avaya,Installed,Windows
+Greater Asia,Medium,gateway-ca-46,192.168.107.172,THA72,"Beijing, China",HCL APP CNC,Installed,Windows
+Greater Asia,Low,auth-aus-912,192.168.204.93,CHN47,"Beijing, China",TCS PBI,Installed,Windows
+Greater Asia,Low,web-us-792,192.168.252.24,IND84,"Bangkok, Thailand",HCL Highjump APP,Installed,Windows
+Greater Asia,Critical,fs-us-487,192.168.119.222,IND01,"Chennai, India",HCL Data Center Windows,Installed,Windows
+Latin America,Critical,db-eu-916,192.168.161.103,COL17,"Sao Paulo, Brazil",HCL Data Center Windows,Installed,Windows
+Latin America,High,auth-aus-806,192.168.63.250,MEX71,"Mexico City, Mexico",HCL Data Center AIX,Installed,Linux
+Latin America,High,cache-asia-438,192.168.125.42,MEX30,"São Paulo, Brazil",HCL Data Center Linux,Installed,Solaris
+Latin America,Medium,gateway-uk-686,192.168.216.153,MEX20,"Buenos Aires, Argentina",HCL Cloud Windows,Installed,Windows
+Latin America,Medium,proxy-aus-917,192.168.22.187,BRA86,"São Paulo, Brazil",HCL Cloud Linux,Pending Install,AIX
+Latin America,Low,proxy-uk-64,192.168.136.180,CHL40,"Lima, Peru",TCS AS SQL,Retired,Windows
+Latin America,Critical,db-ind-419,192.168.81.179,BRA82,"Buenos Aires, Argentina",TCS ORACLE,Installed,Windows
+Latin America,Critical,db-ca-762,192.168.186.42,MEX86,"Sao Paulo, Brazil",CAP BD Administration,Installed,Windows
+Latin America,High,cache-aus-451,192.168.142.208,MEX20,"Lima, Peru",TCS MES,Pending Install,Windows
+Latin America,High,pwct835db04,192.168.29.62,CHL84,"Mexico City, Mexico",TCS Aveva,Retired,Windows
+Latin America,Medium,pwct941bx34,192.168.152.216,MEX50,"Bogota, Colombia",ACC NA EDC,Installed,Windows
+Latin America,Medium,pwct306lx28,192.168.110.246,ARG95,"Santiago, Chile",TCS Geberal Application Support,Installed,Windows
+Latin America,Low,pwct623sw51,192.168.165.126,COL40,"Bogotá, Colombia",CAP AS APPS,Pending Install,Windows
+Latin America,Low,pwct043api05,192.168.114.36,PER26,"Santiago, Chile",HCL Automation,Retired,Windows
+Latin America,Critical,pwct082gw13,192.168.111.60,CHL48,"Lima, Peru",HCL SEC ICS,Installed,Windows
+Latin America,Critical,pwct270sw02,192.168.56.40,COL19,"Sao Paulo, Brazil",HCL Avaya,Installed,Windows
+Latin America,High,pwct758db76,192.168.150.213,PER89,"Mexico City, Mexico",HCL APP CNC,Installed,Windows
+Latin America,High,pwct166api95,192.168.3.195,BRA19,"Mexico City, Mexico",TCS PBI,Installed,Windows
+Latin America,Medium,pwct806db84,192.168.32.99,ARG74,"Bogotá, Colombia",HCL Highjump APP,Pending Install,Windows
+Latin America,Critical,pwct697sw77,192.168.54.223,ARG01,"Bosan, Chile",HCL Data Center Windows,Retired,Windows
+North America,Critical,pwct425gw49,192.168.126.191,USA57,"Vancouver, Canada",HCL Data Center Windows,Installed,Windows
+North America,High,pwct824fs45,192.168.185.148,USA66,"Los Angeles, USA",HCL Data Center AIX,Installed,Linux
+North America,High,pwct583db34,192.168.28.59,MEX48,"Los Angeles, USA",HCL Data Center Linux,Installed,Solaris
+North America,Medium,pwct209gw45,192.168.58.175,MEX77,"New York, USA",HCL Cloud Windows,Installed,Windows
+North America,Medium,pwct265sw56,192.168.174.29,MEX80,"Vancouver, Canada",HCL Cloud Linux,Installed,AIX
+North America,Low,pwct916bx75,192.168.9.29,MEX23,"Toronto, Canada",TCS AS SQL,Installed,Windows
+North America,Low,pwct544sw57,192.168.135.207,CAN24,"New York, USA",TCS ORACLE,Pending Install,Windows
+North America,Critical,pwct140lx26,192.168.216.9,MEX80,"Toronto, Canada",CAP BD Administration,Retired,Windows
+North America,Critical,pwct564api12,192.168.191.196,CAN46,"Los Angeles, USA",TCS MES,Installed,Windows
+North America,High,pwct930gw82,192.168.101.184,USA53,"Toronto, Canada",TCS Aveva,Installed,Windows
+North America,High,pwct268api59,192.168.98.181,MEX91,"Vancouver, Canada",ACC NA EDC,Installed,Windows
+North America,Medium,pwct047gw87,192.168.47.98,MEX72,"Vancouver, Canada",TCS Geberal Application Support,Installed,Windows
+North America,Medium,pwct429fs32,192.168.51.98,USA21,"Houston, USA",CAP AS APPS,Installed,Windows
+North America,Low,pwct192db47,192.168.176.155,CAN45,"New York, USA",HCL Automation,Installed,Windows
+North America,Critical,pwct869lx51,192.168.229.151,USA52,"Toronto, Canada",HCL SEC ICS,Installed,Windows
+North America,Critical,pwct075db28,192.168.136.197,MEX43,"Toronto, Canada",HCL Avaya,Installed,Windows
+North America,High,pwct817db48,192.168.112.36,MEX66,"Los Angeles, USA",HCL APP CNC,Pending Install,Windows
+North America,High,pwct350api39,192.168.44.152,MEX64,"Los Angeles, USA",TCS PBI,Retired,Windows
+North America,Medium,pwct431db78,192.168.148.253,USA24,"New York, USA",HCL Highjump APP,Installed,Windows
